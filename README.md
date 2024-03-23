@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme🖐️, e este é meu portfólio.
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992510527?text=%20Ol%C3%A1%2C%20Agrade%C3%A7o%20por%20entrar%20em%20contato.%20Responderei%20assim%20que%20poss%C3%ADvel){:target="_blank"}
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992510527?text=%20Ol%C3%A1%2C%20Agrade%C3%A7o%20por%20entrar%20em%20contato.%20Responderei%20assim%20que%20poss%C3%ADvel)[:target="_blank"]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-6b6682256/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guii_sb/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017602292327)
