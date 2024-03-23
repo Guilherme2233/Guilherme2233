@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Guilherme🖐️ e este é meu portifólio.
-(OBS: estou organizando ainda, logo logo irei postar meus repositórios guardados)
+(OBS: estou organizando ainda, logo logo irei postar meus repositórios)
 ### Formas de Contato:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992510527?text=%20Ol%C3%A1%2C%20Agrade%C3%A7o%20por%20entrar%20em%20contato.%20Responderei%20assim%20que%20poss%C3%ADvel)
@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017602292327)
 
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&show_icons=true&theme=dracula&locale=pt-br)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=dracula&locale=pt-br) 
 ### Tecnologias e ferramentas com as quais já trabalhei:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,7 +18,9 @@
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ### Linguagens Usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&langs_count=8&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&layout=compact&locale=pt-br)
+
