@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Guilherme🖐️ e este é meu portifólio.
+(OBS: estou organizando ainda, logo logo irei postar meus repositórios guardados)
 ### Formas de Contato:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992510527?text=%20Ol%C3%A1%2C%20Agrade%C3%A7o%20por%20entrar%20em%20contato.%20Responderei%20assim%20que%20poss%C3%ADvel)
