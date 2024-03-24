@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-6b6682256/)
 
 
-![Guilherme2233's Stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=react&show_icons=true&hide_border=true&count_private=true) ![Guilherme2233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=react&hide_border=true) 
+![Guilherme2233's Stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=react&show_icons=true&hide_border=true&count_private=true)![Guilherme2233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=react&hide_border=true) 
 ### Tecnologias e ferramentas com as quais já trabalhei:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
