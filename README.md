@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme🖐️e este é meu portifólio.(Ainda estou organizando)
+## Olá! Eu sou o Guilherme🖐️ e este é meu portifólio.(Ainda estou organizando)
 [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
 ### Minhas redes sociais:
 
