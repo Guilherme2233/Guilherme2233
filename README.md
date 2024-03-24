@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme🖐️ e este é meu portifólio.
+## Olá! Eu sou o Guilherme🖐️e este é meu portifólio.   [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
 (OBS: estou organizando ainda, logo logo irei postar meus repositórios)
 ### Minhas redes sociais:
 
@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-6b6682256/)
 
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=dracula&locale=pt-br) 
+![Guilherme2233's Stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=react&show_icons=true&hide_border=true&count_private=true&locale=pt-br) ![Guilherme2233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=react&hide_border=true&locale=pt-br) 
 ### Tecnologias e ferramentas com as quais já trabalhei:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,7 +21,7 @@
 
 
 ### Linguagens Usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&layout=compact&locale=pt-br)
+![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=react&show_icons=true&hide_border=true&layout=compact&locale=pt-br)
 
 ### Formas de contato:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992510527?text=%20Ol%C3%A1%2C%20Agrade%C3%A7o%20por%20entrar%20em%20contato.%20Responderei%20assim%20que%20poss%C3%ADvel)
