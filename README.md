@@ -1,5 +1,6 @@
-## Olá! Eu sou o Guilherme 🖐️ e este é meu portifólio.(Ainda estou organizando)
-![](https://komarev.com/ghpvc/?username=Guilherme2233&style=for-the-badge)  [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
+## Olá! Eu sou o Guilherme 🖐️ e este é meu portifólio.(Ainda estou organizando) [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
+ 
+
  
 
 
