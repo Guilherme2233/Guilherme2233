@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Guilherme 🖐️ e este é meu portifólio.(Ainda estou organizando)
-[![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]() 
+![](https://komarev.com/ghpvc/?username=Guilherme2233&style=for-the-badge)  [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
+ 
 
-![](https://komarev.com/ghpvc/?username=Guilherme2233&style=for-the-badge)
+
 ### Minhas redes sociais:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017602292327)
