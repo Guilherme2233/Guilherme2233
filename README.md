@@ -1,8 +1,9 @@
 ## HELLO! I'M GUILHERME 🖐️, AND THIS IS MY PORTFOLIO. (I'M STILL ORGANIZING)
-[![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
+
  
 
-### MY GITHUB STATUS:
+### MY GITHUB STATUS: [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
+
 <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=react&mode=starting_year&show_icons=true&hide_border=false&count_private=true" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=react&hide_border=false" width="425"/>
 
 
