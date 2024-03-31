@@ -24,7 +24,7 @@
 
 
 ### LANGUAGES USED:
-![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=react&show_icons=true&hide_border=false&layout=compact)
+![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=react&show_icons=true&hide_border=false)
 
 ### CONTACT ME:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/guilherme_souza)
