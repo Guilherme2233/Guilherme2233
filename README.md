@@ -1,5 +1,4 @@
-## HELLO! I'M GUILHERME 🖐️, AND THIS IS MY PORTFOLIO.      [![Follow](https://img.shields.io/github/followers/Guilherme2233.svg?style=social&label=Followers&maxAge=2592000)]()
-
+## HELLO! I'M GUILHERME 🖐️, AND THIS IS MY PORTFOLIO.      
 
  
 
