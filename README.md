@@ -4,7 +4,7 @@
 
 ### MY GITHUB STATS:  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=react&mode=starting_year&show_icons=true&hide_border=false&count_private=true" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=react&hide_border=false" width="425"/>
+![Guilherme2233's Stats](https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)![Guilherme2233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false)
 
 
 
@@ -27,7 +27,7 @@
 
 
 ### LANGUAGES USED:
-![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=react&show_icons=true&hide_border=false&layout=compact)
+![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ### CONTACT ME:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/guilherme_souza)
