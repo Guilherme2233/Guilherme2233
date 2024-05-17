@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9544F2&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+I'M+GUILHERME🖐️;+AND+THIS+IS+MY+PORTFOLIO!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=3B4ADF&center=true&vCenter=true&random=false&width=1000&lines=HELLO+I'M+GUILHERME🖐️;+AND+THIS+IS+MY+PORTFOLIO!;)](https://git.io/typing-svg)
 
 ### MY GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats de Guilherme2233" width="390"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats de Guilherme2233" width="390" height="170">
-
+<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&title_color=3B4ADF&bg_color=000000&text_color=F2F2F2&icon_color=3B4ADF&border_color=F2F2F2&show_icons=true" alt="GitHub Stats de Guilherme2233"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&background=000000&sideNums=f2f2f2&currStreakNum=f2f2f2&ring=3B4ADF&fire=069ec0&sideNums=F2F2F2&sideLabels=F2F2F2&currStreakLabel=F2F2F2&dates=F2F2F2" alt="GitHub Streak Stats de Guilherme2233">
 
 ### TECHNOLOGIES AND TOOLS I'VE WORKED WITH
 
@@ -24,7 +23,7 @@
 
 
 ### LANGUAGES USED
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Top Languages de Guilherme2233">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&title_color=3B4ADF&bg_color=000000&text_color=F2F2F2&show_icons=true&hide_border=false&border_color=F2F2F2&layout=compact" alt="Top Languages de Guilherme2233" he>
 
 
 ### CONTACT ME
