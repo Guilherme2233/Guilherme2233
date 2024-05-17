@@ -1,16 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9544F2&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+I'M+GUILHERME🖐️;+AND+THIS+IS+MY+PORTFOLIO!;)](https://git.io/typing-svg)
 
       
-### MY GITHUB STATS:  
+### MY GITHUB STATS  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="400" height="158"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" width="400" height="">
 
-
-
-
-
-
-### TECHNOLOGIES AND TOOLS I'VE WORKED WITH:
+### TECHNOLOGIES AND TOOLS I'VE WORKED WITH
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,15 +22,15 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-### LANGUAGES USED:
+### LANGUAGES USED
 ![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
-### CONTACT ME:
+### CONTACT ME
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/guilherme_souza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesouzadev1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-6b6682256/)
 
-### MY COMMITS:
+### MY COMMITS
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme2233/Guilherme2233/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme2233/Guilherme2233/output/github-contribution-grid-snake-dark.svg">
