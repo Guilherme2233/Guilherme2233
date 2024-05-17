@@ -2,7 +2,7 @@
 
 ### MY GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats de Guilherme2233" width="400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats de Guilherme2233" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats de Guilherme2233" width="390"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats de Guilherme2233" width="390">
 
 
 ### TECHNOLOGIES AND TOOLS I'VE WORKED WITH
