@@ -22,7 +22,7 @@
 
 
 ### LANGUAGES USED
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Top Languages de Guilherme2233" width="400" height="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Top Languages de Guilherme2233" width="300" height="200">
 
 
 ### CONTACT ME
