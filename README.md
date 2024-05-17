@@ -2,8 +2,7 @@
 
       
 ### MY GITHUB STATS  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="400" height="158"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" width="399" height="">
+<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="490" height="278"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" width="515" height="278">
 
 ### TECHNOLOGIES AND TOOLS I'VE WORKED WITH
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +22,8 @@
 
 
 ### LANGUAGES USED
-![Guilherme2233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Top Languages de Guilherme2233" width="400" height="300">
+
 
 ### CONTACT ME
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/guilherme_souza)
