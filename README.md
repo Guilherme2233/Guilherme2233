@@ -1,7 +1,6 @@
-## HELLO! I'M GUILHERME 🖐️, AND THIS IS MY PORTFOLIO.      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9544F2&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+I'M+GUILHERME🖐️;+AND+THIS+IS+MY+PORTFOLIO!;)](https://git.io/typing-svg)
 
- 
-
+      
 ### MY GITHUB STATS:  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="400" height="158"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" width="400" height="">
@@ -36,10 +35,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesouzadev1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-6b6682256/)
 
-
-
-
-
+### MY COMMITS:
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme2233/Guilherme2233/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme2233/Guilherme2233/output/github-contribution-grid-snake-dark.svg">
+  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherme2233/Guilherme2233/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
