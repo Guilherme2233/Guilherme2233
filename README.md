@@ -3,8 +3,8 @@
 ### MY GITHUB STATS
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&title_color=3B4ADF&bg_color=000000&text_color=F2F2F2&icon_color=3B4ADF&border_color=F2F2F2&show_icons=true" alt="GitHub Stats de Guilherme2233" width="290" height="190">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&background=000000&sideNums=f2f2f2&currStreakNum=f2f2f2&ring=3B4ADF&fire=069ec0&sideNums=F2F2F2&sideLabels=F2F2F2&currStreakLabel=F2F2F2&dates=F2F2F2" alt="GitHub Streak Stats de Guilherme2233" width="290" height="190">
+    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&title_color=3B4ADF&bg_color=000000&text_color=F2F2F2&icon_color=3B4ADF&border_color=F2F2F2&show_icons=true" alt="GitHub Stats de Guilherme2233" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&background=000000&sideNums=f2f2f2&currStreakNum=f2f2f2&ring=3B4ADF&fire=069ec0&sideNums=F2F2F2&sideLabels=F2F2F2&currStreakLabel=F2F2F2&dates=F2F2F2" alt="GitHub Streak Stats de Guilherme2233" width="400" >
 </div>
 
 
