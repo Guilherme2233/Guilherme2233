@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9544F2&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+I'M+GUILHERME🖐️;+AND+THIS+IS+MY+PORTFOLIO!;)](https://git.io/typing-svg)
 
-      
-### MY GITHUB STATS  
-<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="390" height="278"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" width="415" height="278">
+### MY GITHUB STATS
 
+<img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="390" height="278"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme2233&theme=midnight-purple&hide_border=false" width="415" height="278">
 ### TECHNOLOGIES AND TOOLS I'VE WORKED WITH
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
