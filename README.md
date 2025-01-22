@@ -4,8 +4,7 @@
 ### MY GITHUB STATS
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&title_color=3B4ADF&bg_color=000000&text_color=F2F2F2&icon_color=3B4ADF&border_color=F2F2F2&show_icons=true" alt="GitHub Stats de Guilherme2233" width="405" >
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-tawny.vercel.app?user=Guilherme2233&card_width=370&card_height=150&background=000000&sideNums=F2F2F2&currStreakNum=F2F2F2&ring=3B4ADF&fire=069EC0&sideLabels=F2F2F2&currStreakLabel=F2F2F2&dates=F2F2F2" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Guilherme2233&title_color=3B4ADF&bg_color=000000&text_color=F2F2F2&icon_color=3B4ADF&border_color=F2F2F2&show_icons=true" alt="GitHub Stats de Guilherme2233" width="405" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-tawny.vercel.app?user=Guilherme2233&card_width=370&card_height=150&background=000000&sideNums=F2F2F2&currStreakNum=F2F2F2&ring=3B4ADF&fire=069EC0&sideLabels=F2F2F2&currStreakLabel=F2F2F2&dates=F2F2F2" alt="GitHub Streak" /></a>
 </div>
 
 
